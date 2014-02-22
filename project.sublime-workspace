@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crea",
+				"create	RenderTexture.*()"
+			],
+			[
+				"font-",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var App = Ember.Application.Render ",
+			"file": "js/app.js",
+			"file_size": 200,
+			"file_write_time": 130368502840000000,
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 760.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kraigwalker/Library/Application Support/Sublime Text 3/Packages/HTML/html_completions.py",
+		"/Users/kraigwalker/Desktop/email_digest 2/email_digest.html",
+		"/Users/kraigwalker/.bash_profile",
+		"/Users/kraigwalker/Documents/Cavern/LICENSE",
+		"/Users/kraigwalker/bash_profile",
+		"/Users/kraigwalker/Desktop/sites/kraigwalker/kraigwalker/_site/cache.appcache",
+		"/Users/kraigwalker/Desktop/gt/css/sass/cms/_reds.scss",
+		"/Users/kraigwalker/Desktop/gt/css/style.scss",
+		"/Users/kraigwalker/Desktop/chocolatechip/README.md",
+		"/Users/kraigwalker/Downloads/gist2902499-8bf0fa8338d8b2ff8fd51366dd93aba030127238/.bash_profile",
+		"/Users/kraigwalker/wishlist.html",
+		"/Users/kraigwalker/Desktop/zyler.html",
+		"/Users/kraigwalker/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/kraigwalker/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kraigwalker/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kraigwalker/dotfiles/.osx",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/kraigwalker/Downloads/animate-custom.css",
+		"/Users/kraigwalker/Desktop/sites/kraigwalker/kraigwalker/assets/css/main.css",
+		"/Users/kraigwalker/Desktop/sites/kraigwalker/kraigwalker/_site/assets/js/main.js",
+		"/Users/kraigwalker/Desktop/sites/kraigwalker/kraigwalker/_config.yml",
+		"/Users/kraigwalker/Desktop/sites/kraigwalker/kraigwalker/_includes/head.html",
+		"/Users/kraigwalker/Downloads/project_files/2D Racing Game Series in Unity Volume 4/Unity Files/Assets/Scripts/DamageController.cs",
+		"/Users/kraigwalker/Desktop/isometricCameraControl.cs",
+		"/Users/kraigwalker/Desktop/testgrid/testgrid.html",
+		"/Users/kraigwalker/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"rbenv",
+			"target=\"_blank\" rel=\"nofollow\"",
+			"bi",
+			"josh",
+			"lr",
+			"Icon",
+			"fadeInUp",
+			"AddThis",
+			"Add",
+			"fb:appid",
+			"canonical",
+			"respond",
+			"entry-title",
+			"title",
+			"headline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
